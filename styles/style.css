@@ -1,0 +1,28 @@
+h1, p {
+    text-align: center;
+}
+
+.card-container {
+    display: grid;
+    justify-content: center;
+}
+
+.card-img {
+    padding:2%;
+    line-height: 1.5;
+    height: 70%;
+}
+
+.example-container {
+    display: grid;
+    align-items: center;
+}
+
+.card-body {
+    text-align: center;
+
+}
+
+.card-deck {
+    margin: 0 0 1rem 0;
+}

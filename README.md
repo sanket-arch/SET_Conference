@@ -98,11 +98,4 @@ To get the project working, you need to install the following dependencies.
 2. [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
 ---
-
-## Contributors
-
-- T Aswin Barath <https://github.com/AswinBarath>
-
----
-
 **[⬆ Back to Top](#Table-of-content)**
